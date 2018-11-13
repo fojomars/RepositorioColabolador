@@ -10,7 +10,7 @@ package ejercicioleader;
  * @author fojomars
  */
 public class ClaseA {
-    public void ejemplo(){
+    public void ejemplo1(){
         
     }
             
