@@ -17,7 +17,7 @@ public class EjercicioLeader {
     public static void main(String[] args) {
         // TODO code application logic here
         int numero;
-        
+        String nombre;
     }
     
 }
